@@ -369,6 +369,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Htay Htay Thwe**
 - GitHub: [@htay-htay-thwe](https://github.com/htay-htay-thwe)
+**Hla Min Myat Htoo**
 - Github: [@MyatHtoo](https://github.com/myat-htoo)
 
 ---
