@@ -84,8 +84,7 @@ A beautiful, modern mobile application for browsing and ordering coffee and dess
 ---
 
 ## 📱 Screenshots
-
-> *Add your app screenshots here to showcase the UI*
+##
 
 ---
 
